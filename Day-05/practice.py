@@ -147,18 +147,27 @@
 
 
 
-def show_student(student):
-    print("Name:", student["name"])
-    print("Age:", student["age"])
-    print("Course:", student["course"])
+# def show_student(student):
+#     print("Name:", student["name"])
+#     print("Age:", student["age"])
+#     print("Course:", student["course"])
 
-student_data = {
-    "name": "Ali",
-    "age": '20',
-    "course": "Python"
-}
+# student_data = {
+#     "name": "Ali",
+#     "age": '20',
+#     "course": "Python"
+# }
 
-show_student(student_data)
+# show_student(student_data)
+
+
+def check_even_odd(num):
+    if num % 2 == 0:
+        print("Even")
+    else:
+        print("Odd")
+
+check_even_odd(10)
 
 
 
