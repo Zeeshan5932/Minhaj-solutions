@@ -30,6 +30,10 @@ items = []          # list to store all products
 subtotal = 0        # total before discount
 
 # Loop to add multiple items
+# total = int(input("how many item do you want to add?"))
+
+# for i in range(total):
+
 while True:
     product_name = input("\nEnter product name: ")
     price = float(input("Enter product price: "))
