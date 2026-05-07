@@ -1,0 +1,16 @@
+student_name,age,city,gender,marks,admission_date,unnamed:_0
+ Ali ,20.0,lahore,M,85.0,2024-01-10,1
+Sara,22.0,Lahore,F,90.0,2024/01/12,2
+Ahmed,,LHR,M,,10-01-2024,3
+Ali ,20.0,lahore,M,85.0,2024-01-10,4
+Bilal,-5.0,karachi,M,70.0,,5
+Hina,21.0,,F,88.0,2024-02-01,6
+,23.0,Islamabad,F,92.0,2024-02-05,7
+Usman,24.0,islamabad ,Male,-10.0,2024-02-08,8
+Maham,,KHI,Female,78.0,2024-03-01,9
+Ahmed,19.0,LHR,M,81.0,2024-03-05,10
+Zara,22.0,Karachi,F,,2024-03-10,11
+Hamza,200.0,lahore,M,95.0,invalid-date,12
+Ayesha,18.0,islamabad,F,76.0,2024-04-01,13
+sara,22.0,Lahore,F,90.0,2024-01-12,14
+Danish,25.0,Multan,,89.0,2024-04-15,15
